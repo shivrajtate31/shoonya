@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Large backup/checkpoint data - do not push
+checkpoit-backup/
+shoonya_backup/
+shoonya_backup.tar
+shoonya-crashed/
+
+# LTM chunks (generated data - too many small files)
+memory/ltm/
+
+# Planner runtime data
+planner/tasks.json
+
+# Reflection output (generated)
+reflection/
+
+# Short-term memory (session data)
+memory/stm.json
+
+# Audio data
+data/audio/
+data/books/

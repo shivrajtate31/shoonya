@@ -1,0 +1,92 @@
+- What does this mean? → Quantum mind - Wikipedia Jump to content Main menu Main menu move to sidebar hid
+- What does this mean? → history Tools Tools move to sidebar hide Actions ReadEditView history General Wh
+- What does this mean? → quantum mysticism. History[edit] Eugene Wigner developed the idea that quantum m
+- What does this mean? → reason why particular macroscopic physical features in the brain should give ris
+- What does this mean? → applies both to matter and consciousness. He suggested that it could explain the
+- What does this mean? → process is at the quantum-theoretically describable level".[15] Penrose and Hame
+- What does this mean? → In the same book, Penrose wrote: "One might speculate, however, that somewhere d
+- What does this mean? → would be suitable hosts for quantum behavior.[22] Microtubules are composed of t
+- What does this mean? → (DLBs), but De Zeeuw et al. proved this impossible[28] by showing that DLBs are 
+- What does this mean? → trapped light. Tuszyński suspects that the phenomenon has a quantum origin, with
+- What does this mean? → Although these theories are stated in a scientific framework, it is difficult to
+- What does this mean? → even behave convincingly as though it was conscious unless it really was—which I
+- What does this mean? → a quantum field theory of memory storage.[40][41] Giuseppe Vitiello and Walter F
+- What does this mean? → Ricciardi and Umezawa proposed in 1967 a general theory of quanta of long-range 
+- What does this mean? → field theory when storing and retrieving long term memory.[55] Stapp[edit] Henry
+- What does this mean? → conditions.[62][63][64][65] The hypothesized function of this mechanism is to as
+- What does this mean? → also been subsequently observed.[73][74][75] Another prediction of CNET was that
+- What does this mean? → and Noë call binding a “pseudo problem,” but also state that “the fact that obje
+- What does this mean? → simultaneous actuation of competing sets of neurons. While CNET by itself is not
+- What does this mean? → the molecular level, and at a molecular level quantum mechanics is significant."
+- What does this mean? → Quantum Approaches to Consciousness (Stanford Encyclopedia of Philosophy) Stanfo
+- What does this mean? → proposed in recent decades, will be surveyed. There are three basic types of cor
+- What does this mean? → Gravity and Microtubuli 4. Quantum Mind 4.1 Applying Quantum Concepts to Mental 
+- What does this mean? → and other important topics do and will profit a lot from complex systems approac
+- What does this mean? → detailed description (as in statistical mechanics). In sharp contrast to such ep
+- What does this mean? → Butterfield (1998), Suarez and Adams (2013). 2. Philosophical Background Assumpt
+- What does this mean? → correlations can be synchronic rather than diachronic, so the temporal distance 
+- What does this mean? → many discussions of material [ma] brain states and mental [me] states of conscio
+- What does this mean? → mental states is eliminated right away or at least considered as epiphenomenal. 
+- What does this mean? → laws of nature (Primas 2002). This causal gap applies to classical physics as we
+- What does this mean? → growing interest under the notion of “downward causation” (Velmans 2002; Ellis e
+- What does this mean? → theory in a way that makes them applicable beyond physics. Of particular interes
+- What does this mean? → to (A), it is possible to conceive mind-matter relations indirectly (B), via a t
+- What does this mean? → bipolar appearances (Whitehead 1978). Many approaches in the tradition of Feigl 
+- What does this mean? → Another proponent of dual-aspect thinking is Chalmers (1996), who considers the 
+- What does this mean? → to define a mental state in rigorous terms as it is to define a material state r
+- What does this mean? → quantum theory in relation to consciousness that adopt basic ideas of quantum th
+- What does this mean? → quantum theory to describe neurophysiological and/or neuropsychological processe
+- What does this mean? → to relate elementary conscious acts to gravitation-induced reductions of quantum
+- What does this mean? → a mental representation encoding a content that is consciously perceived. Neural
+- What does this mean? → Just a moment...Enable JavaScript and cookies to continue
+- What does this mean? → 403403 Forbidden
+- What does this mean? → Life - Wikipedia Jump to content Main menu Main menu move to sidebar hide Naviga
+- What does this mean? → 6 Composition Toggle Composition subsection 6.1 Chemical elements 6.2 DNA 6.3 Ce
+- What does this mean? → MelayuMinangkabau閩東語 / Mìng-dĕ̤ng-ngṳ̄MirandésМонголမြန်မာဘာသာNa Vosa VakavitiNe
+- What does this mean? → item Appearance move to sidebar hide From Wikipedia, the free encyclopedia Matte
+- What does this mean? → a state of death, and none is immortal. Many philosophical definitions of living
+- What does this mean? → in the 1740s. Living things are composed of biochemical molecules, formed mainly
+- What does this mean? → because life is a process, not a substance.[5][6][7] This is complicated by a la
+- What does this mean? → sweating to reduce temperature. Organisation: being structurally composed of one
+- What does this mean? → information: Entropy and life From a physics perspective, an organism is a therm
+- What does this mean? → are self-organizing and autopoietic (self-producing). Variations of this include
+- What does this mean? → is difficult, as cessation of life functions is often not simultaneous across or
+- What does this mean? → do not metabolise and they require a host cell to make new products. Virus self-
+- What does this mean? → elaborated on fire because of the apparent connection between life and heat, and
+- What does this mean? → theory of Charles Darwin (1859) is a mechanistic explanation for the origin of s
+- What does this mean? → form of a living thing is its soul (Greek psyche, Latin anima). There are three 
+- What does this mean? → the consequence in terms of a prior cause. Biological features are explained not
+- What does this mean? → Redi.[55][56] Disproof of the traditional ideas of spontaneous generation is no 
+- What does this mean? → the 1850s Hermann von Helmholtz, anticipated by Julius Robert von Mayer, demonst
+- What does this mean? → fungi←Greening of Earth←Ediacaran biota←Cambrian explosion←Earliest tetrapods←Ea
+- What does this mean? → rocks from Western Greenland[71] and microbial mat fossils found in 3.48 billion
+- What does this mean? → Life | Definition, Origin, Evolution, Diversity, & Facts | Britannica Search Bri
+- What does this mean? → Kids Ask the Chatbot Games & Quizzes History & Society Science & Tech Biographie
+- What does this mean? → Topics Images, Videos & Interactives For Students life summary Quizzes Facts You
+- What does this mean? → Feedback Type Select a type (Required) Factual Correction Spelling/Grammar Corre
+- What does this mean? → in scientific, political, and religious circles for his views on extraterrestria
+- What does this mean? → pyogenes, associated with strep throat and scarlet fever.(more)life, living matt
+- What does this mean? → accreted into a planet about 4.5 billion years ago. But this is life as a whole.
+- What does this mean? → the relative thickness is comparable to a coat of paint on a rubber ball. An est
+- What does this mean? → lichens, leafy or crusty individuals composed of permanent associations between 
+- What does this mean? → material constituents of life would therefore be premature. Nonetheless, most sc
+- What does this mean? → occur in animals and plants. Flames also have a well-known capacity for growth. 
+- What does this mean? → and be responsive to external stimuli. A visitor from another planet, judging fr
+- What does this mean? → acid (RNA) molecules may replicate, mutate, and then replicate their mutations i
+- What does this mean? → Please set a user-agent and respect our robot policy https://w.wiki/4wJS. See al
+- What does this mean? → Quantum Consciousness: Myths vs. Facts and Real Evidence Skip to content Science
+- What does this mean? → superpositions, and entanglements, felt strangely aligned with the paradoxes of 
+- What does this mean? → up” when we perceive, think, or dream. Chemicals like dopamine, serotonin, and a
+- What does this mean? → such that what happens to one instantly influences the other, no matter the dist
+- What does this mean? → heal diseases, or bend reality. Such claims often misuse the language of physics
+- What does this mean? → effects may play a role in the brain. Their work is not about wishful thinking, 
+- What does this mean? → seemed absurd. The brain is warm and wet, not the kind of isolated environment u
+- What does this mean? → structures give neurons shape and play roles in transport and signaling. Hamerof
+- What does this mean? → even if their embrace is uneasy.Myths That Cloud the DebateOne persistent myth i
+- What does this mean? → what is fantasy.The Real Evidence: What We Know So FarSo what does real evidence
+- What does this mean? → The jury is still out, and perhaps it will remain so until experimental methods 
+- What does this mean? → consciousness should not be embraced as dogma, but neither should it be rejected
+- What does this mean? → about the universe is that it is comprehensible.” Consciousness is the faculty t
+- What does this mean? → consciousness remains a hypothesis balanced between wonder and skepticism. Myths
+- What does this mean? → rise of artificial intelligence (AI) and automation represents one of the most t
+- What does this mean? → 2026The universe is vast. So vast, in fact, that it stretches the limits of our…

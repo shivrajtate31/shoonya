@@ -1,0 +1,377 @@
+Quantum Approaches to Consciousness (Stanford Encyclopedia of Philosophy)
+Stanford Encyclopedia of Philosophy
+Menu
+Browse
+Table of Contents
+What's New
+Random Entry
+Chronological
+Archives
+About
+Editorial Information
+About the SEP
+Editorial Board
+How to Cite the SEP
+Special Characters
+Advanced Tools
+Contact
+Support SEP
+Support the SEP
+PDFs for SEP Friends
+Make a Donation
+SEPIA for Libraries
+Entry Navigation
+Entry Contents
+Bibliography
+Academic Tools
+Friends PDF Preview
+Author and Citation Info
+Back to Top
+Quantum Approaches to ConsciousnessFirst published Tue Nov 30, 2004; substantive revision Mon May 13, 2024
+It is widely accepted that consciousness or, more generally, mental
+activity is in some way correlated to the behavior of the material
+brain. Since quantum theory is the most fundamental theory of matter
+that is currently available, it is a legitimate question to ask
+whether quantum theory can help us to understand consciousness.
+Several approaches answering this question affirmatively, proposed in
+recent decades, will be surveyed. There are three basic types of
+corresponding approaches: (1) consciousness is a manifestation of
+quantum processes in the brain, (2) quantum concepts are used to
+understand conscious mental activity without referring to brain
+activity, and (3) matter and consciousness are regarded as dual
+aspects of one underlying reality. Major contemporary variants of
+these quantum-inspired approaches will be discussed. It will be
+pointed out that they make different epistemological assumptions and
+use quantum theory in different ways. For each of the approaches
+discussed, both problematic and promising features will be
+highlighted.
+1. Introduction
+2. Philosophical Background Assumptions
+3. Quantum Brain
+3.1 Neurophysiological Levels of Description
+3.2 Stapp: Quantum State Reductions and Conscious Acts
+3.3 Vitiello and Freeman: Quantum Field Theory of Brain States
+3.4 Beck and Eccles: Quantum Mechanics at the Synaptic Cleft
+3.5 Penrose and Hameroff: Quantum Gravity and Microtubuli
+4. Quantum Mind
+4.1 Applying Quantum Concepts to Mental Systems
+4.2 Concrete Applications
+5. Mind and Matter as Dual Aspects
+5.1 Compositional and Decompositional Approaches
+5.2 Pauli-Jung Conjecture
+5.3 Mind-Matter Correlations and the Role of Meaning
+6. Conclusions
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries
+1. Introduction
+The problem of how mind and matter are related to each other has many
+facets, and it can be approached from many different starting points.
+The historically leading disciplines in this respect are philosophy
+and psychology, which were later joined by behavioral science,
+cognitive science and neuroscience. In addition, the physics of
+complex systems and quantum physics have played stimulating roles in
+the discussion from their beginnings.
+As regards the issue of complexity, this is evident: the brain is one
+of the most complex systems we know. The study of neural networks,
+their relation to the operation of single neurons and other important
+topics do and will profit a lot from complex systems approaches. As
+regards quantum physics, there can be no reasonable doubt that quantum
+events occur and are efficacious in the brain as elsewhere in the
+material world—including biological
+systems.[1]
+But it is controversial whether these events are efficacious and
+relevant for those aspects of brain activity that are correlated with
+mental activity.
+The original motivation in the early 20th century for relating quantum
+theory to consciousness was essentially philosophical. It is fairly
+plausible that conscious free decisions (“free will”) are
+problematic in a perfectly deterministic
+world,[2]
+so quantum randomness might indeed open up novel possibilities for
+free will. (On the other hand, randomness is problematic for
+goal-directed volition!)
+Quantum theory introduced an element of randomness standing out
+against the previous deterministic worldview preceding it, in which
+randomness expresses our ignorance of a more detailed description (as
+in statistical mechanics). In sharp contrast to such epistemic
+randomness, quantum randomness in processes such as the spontaneous
+emission of light, radioactive decay, or other examples has been
+considered a fundamental feature of nature, independent of our
+ignorance or knowledge. To be precise, this feature refers to
+individual quantum events, whereas the behavior of
+ensembles of such events is statistically
+determined. The indeterminism of individual quantum events is
+constrained by statistical laws.
+Other features of quantum theory, which became attractive in
+discussing issues of consciousness, were the concepts of
+complementarity and entanglement. Pioneers of quantum physics such as
+Planck, Bohr, Schrödinger, Pauli (and others) emphasized the
+various possible roles of quantum theory in reconsidering the old
+conflict between physical determinism and conscious free will. For
+informative overviews with different focal points see e.g., Squires
+(1990), Kane (1996), Butterfield (1998), Suarez and Adams (2013).
+2. Philosophical Background Assumptions
+Variants of the dichotomy between mind and matter range from their
+fundamental distinction at a primordial level of description to the
+emergence of mind (consciousness) from the brain as an extremely
+sophisticated and highly developed material system. Early overviews
+can be found in Popper and Eccles (1977), Chalmers (1996), and Pauen
+(2001).
+One important aspect of all discussions about the relation between
+mind and matter is the distinction between descriptive and
+explanatory approaches. For instance, correlation is
+a descriptive term with empirical relevance, while causation
+is an explanatory term associated with theoretical attempts to
+understand correlations. Causation implies correlations between cause
+and effect, but this does not always apply the other way around:
+correlations between two systems can result from a common cause in
+their history rather than from a direct causal interaction. Moreover,
+correlations can be synchronic rather than diachronic, so the temporal
+distance that is presupposed by cause-effect relations is lacking
+altogether.
+In the fundamental sciences, one typically speaks of causal relations
+in terms of interactions. In physics, for instance, there are four
+fundamental kinds of interactions (electromagnetic, weak, strong,
+gravitational) which serve to explain the correlations that are
+observed in physical systems. As regards the mind-matter problem, the
+situation is more difficult. Far from a theoretical understanding in
+this field, the existing body of knowledge essentially consists of
+empirical correlations between material and mental states. These
+correlations are synchronic, not diachronic; neither are mental states
+causally conditioned by brain states nor the other way around. It is
+(for some purposes) interesting to know that particular brain
+areas are activated during particular mental activities; but this
+does, of course, not explain why they are.
+In many discussions of material [ma] brain states and mental [me]
+states of consciousness, the relations between them are conceived in a
+direct way
+(A):
+\[
+[\mathbf{ma}] \substack{\leftarrow \\ \rightarrow} [\mathbf{me}]
+\]
+The most popular approaches along these lines as far as quantum
+behavior of the brain is concerned will be discussed in
+Section 3,
+“Quantum Brain”.
+The scheme (A) of direct relations between material and mental states
+sketches a minimal framework to study reduction, supervenience, or
+emergence relations (Kim 1998; Stephan 1999) which can yield both
+monistic and dualistic pictures. For instance, the idea of strong
+reduction assumes that all mental states and properties can be
+reduced to the material domain or even to physics. This point of view
+claims that it is both necessary and sufficient to explore and
+understand the material domain, e.g., the brain, in order to
+understand the mental domain, e.g., consciousness. It leads to a
+monistic picture, in which any need to discuss mental states is
+eliminated right away or at least considered as epiphenomenal. While
+mind-brain correlations are still legitimate though causally
+irrelevant from an epiphenomenalist point of view, eliminative
+materialism renders even correlations themselves irrelevant.
+Counterarguments against the validity of such strongly reductive
+approaches are qualia arguments, emphasizing their impossibility to
+properly incorporate the quality of the subjective experience of a
+mental state, the “what it is like to be” (Nagel 1974) in
+that state. This leads to an explanatory gap between third-person and
+first-person accounts for which Chalmers (1995) has coined the notion
+of the “hard problem of consciousness”. Another, less
+discussed counterargument is that the physical domain itself is not
+causally closed. Any solution of fundamental equations of motion (be
+it experimentally, numerically, or analytically) requires to fix
+boundary conditions and initial conditions which are not given by the
+fundamental laws of nature (Primas 2002). This causal gap applies to
+classical physics as well as quantum physics, where a basic
+indeterminacy due to collapse makes it even more challenging. A third
+class of counterarguments refer to the difficulties to include notions
+of temporal present and nowness in a physical description (Franck
+2004, 2008; Primas 2017).
+However, relations between mental and material states can also be
+conceived in a non-reductive fashion, e.g. in terms of emergence
+relations (Stephan 1999). Mental states and/or properties can be
+considered as emergent if the material brain is not necessary or not
+sufficient to explore and understand
+them.[3]
+This leads to a dualistic picture (less radical and more plausible
+than Cartesian dualism) in which residua remain if one attempts to
+reduce the mental to the material. Within a dualistic scheme of
+thinking, it becomes inevitable to discuss the question of how mental
+and material states are related to one another. This topic has
+attracted growing interest under the notion of “downward
+causation” (Velmans 2002; Ellis et al. 2011). Since
+such causation would be synchronic rather than diachronic, a less
+controversial concept addressing this issue has been proposed in terms
+of “downward constraints” that mental states impose on
+brain states (Atmanspacher and beim Graben 2007).
+It has been an old idea by Niels Bohr that central conceptual features
+of quantum theory, such as complementarity, are also of pivotal
+significance outside the domain of physics. In fact, Bohr became
+familiar with complementarity through the psychologist Edgar Rubin
+and, more indirectly, William James (Holton 1970) and immediately saw
+its potential for quantum physics. Although Bohr was convinced of the
+extraphysical relevance of complementarity, he never elaborated this
+idea in concrete detail, and for a long time after him no one else did
+so either. This situation has changed: there are now a number of
+research programs generalizing key notions of quantum theory in a way
+that makes them applicable beyond physics.
+Of particular interest for consciousness studies are approaches that
+have been developed in order to pick up Bohr’s proposal with
+respect to psychology and cognitive science. The first steps in this
+direction were made by the group of Aerts in the early 1990s (Aerts
+et al. 1993), using non-distributive propositional lattices
+to address quantum-like behavior in non-classical systems. Alternative
+approaches have been initiated by Khrennikov (1999), focusing on
+non-classical probabilities, and Atmanspacher et al. (2002),
+outlining an algebraic framework with non-commuting operations. The
+recent development of ideas within this framework of thinking is
+addressed in
+Section 4,
+“Quantum Mind”. Other lines of thinking are due to Primas
+(2007, 2017), addressing complementarity with partial Boolean
+algebras, and Filk and von Müller (2008), indicating links
+between basic conceptual categories in quantum physics and
+psychology.
+As an alternative to (A), it is possible to conceive mind-matter
+relations indirectly
+(B),
+via a third category:
+\[\begin{gather}
+[\mathbf{ma}] \quad [\mathbf{me}] \\
+\searrow\nwarrow \swarrow\nearrow \\
+[\mathbf{mame}]
+\end{gather}\]
+This third category, here denoted [mame], is regarded as being neutral
+with respect to the distinction between [ma] and [me], i.e.,
+psychophysically neutral. In scenario (B), issues of reduction and
+emergence concern the relation between the undivided “background
+reality” [mame] and the distinguished aspects [ma] and [me].
+Such “dual-aspect” frameworks of thinking have received
+increasing attention in contemporary discussion. In occidental
+philosophy, they have a long tradition reaching back as far as to
+Spinoza (1677) and Schelling (1809). In the early days of
+psychophysics, Fechner (1861) and Wundt (1911) advocated related
+views. Whitehead, the modern pioneer of process philosophy, referred
+to mental and physical poles of “actual occasions”, which
+themselves transcend their bipolar appearances (Whitehead 1978). Many
+approaches in the tradition of Feigl (1967) and Smart (1963), called
+“identity theories”, conceive mental and material states
+as differentiated descendants of “central states”. Other
+variants of this idea, focusing on quantum ideas, have been suggested
+by (a) Jung and Pauli (1955) [see also Meier (2001)], involving
+Jung’s conception of a psychophysically neutral, archetypal
+order, by (b) approaches toward a neither-mental-nor-material base
+reality by Eddington (1946) and Wheeler (1994), and by (c) Bohm and
+Hiley (Bohm 1990; Bohm and Hiley 1993; Hiley 2001), referring to an
+implicate order which unfolds into the different explicate domains of
+the mental and the material. They will be discussed in more detail in
+Section 5,
+“Brain and Mind as Dual Aspects”.
+Velmans (2002, 2009) has developed a similar approach, backed up with
+empirical material from psychology, and Strawson (2003) has proposed a
+“real materialism” which uses a closely related scheme.
+Another proponent of dual-aspect thinking is Chalmers (1996), who
+considers the possibility that the underlying, psychophysically
+neutral level of description could be best characterized in terms of
+information.
+Before proceeding further, it should be emphasized that many
+present-day approaches prefer to distinguish between first-person and
+third-person perspectives rather than mental and material states. This
+terminology serves to highlight the discrepancy between immediate
+conscious experiences (“qualia”) and their description, be
+it behavioral, neural, or biophysical. The notion of the “hard
+problem” of consciousness research refers to bridging the gap
+between first-person experience and third-person accounts of it. In
+the present contribution, mental conscious states are implicitly
+assumed to be related to first-person experience. This does not mean,
+however, that the problem of how to define consciousness precisely is
+considered as resolved. Ultimately, it will be (at least) as difficult
+to define a mental state in rigorous terms as it is to define a
+material state rigorously.
+3. Quantum Brain
+In this section, some popular approaches for applying quantum theory
+to brain states will be surveyed and compared, most of them
+speculative, with varying degrees of elaboration and viability.
+Section 3.1
+addresses three different neurophysiological levels of description,
+to which particular quantum approaches refer. Subsequently, the
+individual approaches themselves will be presented and discussed
+—
+Section 3.2:
+Stapp,
+Section 3.3:
+Vitiello and Freeman,
+Section 3.4:
+Beck and Eccles,
+Section 3.5:
+Penrose and Hameroff. For this purpose, the philosophical
+distinctions A/B
+(Section 2)
+and the neurophysiological distinctions addressed in
+Section 3.1
+will serve as guidelines to classify the respective quantum
+approaches in a systematic way. However, some preliminary
+qualifications concerning different ways to use quantum theory are in
+order.
+There are quite a number of accounts discussing quantum theory in
+relation to consciousness that adopt basic ideas of quantum theory in
+a purely narrative manner. Quantum theoretical terms such as
+entanglement, superposition, collapse, complementarity, and others are
+used without specific reference to how they are defined precisely and
+how they are applicable to specific situations. For instance,
+conscious acts are just claimed to be interpretable somehow
+similarly to physical acts of measurement, or correlations in
+psychological systems are just claimed to be interpretable
+somehow similarly to physical entanglement. Such accounts may provide
+fascinating science fiction, and they may even be important to inspire
+nuclei of ideas to be worked out in detail. But unless such detailed
+work leads beyond vague allusions and intimations, they do not yet
+represent scientific progress. Approaches falling into this category
+will not be further discussed in this contribution.
+A second category includes approaches that use the status quo
+of present-day quantum theory to describe neurophysiological and/or
+neuropsychological processes. Among these approaches, the one with the
+longest history was initiated by von Neumann in the 1930s, later taken
+up by Wigner, and then championed by Stapp. It can be roughly
+characterized as the proposal to consider intentional conscious acts
+as intrinsically correlated with physical state reductions. Another
+fairly early idea dating back to Ricciardi and Umezawa in the 1960s is
+to treat mental states, particularly memory states, in terms of vacuum
+states of quantum fields. A prominent proponent of this approach is
+Vitiello. Finally, there is the idea suggested by Beck and Eccles in
+the 1990s, according to which quantum mechanical processes, relevant
+for the description of exocytosis at the synaptic cleft, can be
+influenced by mental intentions.
+The third category refers to further developments or
+generalizations of present-day quantum theory. An obvious
+candidate in this respect is the proposal by Penrose to relate
+elementary conscious acts to gravitation-induced reductions of quantum
+states. Ultimately, this requires the framework of a future theory of
+quantum gravity which is far from having been developed. Together with
+Penrose, Hameroff has argued that microtubuli might be the right place
+to look for such state reductions.
+3.1 Neurophysiological Levels of Description
+A mental system can be in many different conscious (intentional,
+phenomenal) mental states. In a hypothetical state space, a sequence
+of such states forms a trajectory representing what is often called
+the stream of consciousness. Since different subsets of the state
+space are typically associated with different stability properties, a
+mental state can be assumed to be more or less stable, depending on
+its position in the state space. Stable states are distinguished by a
+residence time at that position longer than that of metastable or
+unstable states. If a mental state is stable with respect to
+perturbations, it “activates” a mental representation
+encoding a content that is consciously perceived.
+Neural Assemblies
+Moving from this purely psychological, or cognitive, description to
+its neurophysiological counterpart leads us to the question: What is
+the neural correlate of a mental representation? According to standard
+accounts (cf. Noë and Thompson (2004) for discussion), mental
+representations are correlated with the activity of neuronal
+assemblies, i.e., ensembles of several thousands of coupled neurons.
+The neural correlate of a mental representation can be characterized
+by the fact that the connectivities, or couplings, among those neurons
+form an assembly confined with respect to its environment, to which
+connectivities are weaker than within the assembly. The neural
+correlate of a mental representation is activated if the neurons
+forming the assembly operate more actively, e.g., produce higher
+firing r
